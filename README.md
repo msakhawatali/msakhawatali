@@ -20,6 +20,15 @@ I love building backend systems, REST APIs, and solving coding challenges. Curre
 
 ---
 
+## ✍️ Blog Posts  
+Here are some of my latest blogs on [Dev.to](https://dev.to/your-username):  
+
+- [Beginner’s Guide to REST APIs with Python](https://dev.to/your-username)
+
+*(More blogs coming soon…)*  
+
+---
+
 ## 💡 Ask Me About
 - Python, FastAPI, PostgreSQL  
 - REST API design & CRUD operations  
