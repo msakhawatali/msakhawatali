@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **msakhawatali131@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Building a Social-Media-WebAPI(Postgram) using Django and PostgreSQL
+- 🔭 **I’m currently working on:** Building a Human Resource Management System (HRMS) using FastAPI and React.js 
 - 🌱 **I’m currently learning:** Django, Advanced Python, and REST API Development
 - 👯 **I’m looking to collaborate on:** Open-source backend projects and API development
 - 🤔 **I’m looking for help with:** Optimizing backend performance and database design
